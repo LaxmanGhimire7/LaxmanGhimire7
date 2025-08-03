@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmanghimire7" alt="laxmanghimire7" /></a> </p>
 
-- 🔭 I’m currently working on [MERN-E_learning Public](https://github.com/LaxmanGhimire7/MERN-E_learning)
+- 🔭 I’m currently working on Job Portal
 
 - 🌱 I’m currently learning **JavaScript, React, Express, Node, Azure**
 
